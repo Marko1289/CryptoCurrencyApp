@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">CryptoCurrencyApp</string>
+    <string name="info_and_data">Info and Data</string>
+    <string name="id">Id:</string>
+    <string name="coins_list">Coins List</string>
+    <string name="url">URL:</string>
+    <string name="image_url">Image URL:</string>
+    <string name="content_created_on">Content created on:</string>
+    <string name="name">Name:</string>
+    <string name="symbol">Symbol:</string>
+    <string name="coin_name">Coin Name:</string>
+    <string name="full_name">FullName:</string>
+    <string name="description">Description:</string>
+    <string name="asset_token_status">Asset Token Status:</string>
+    <string name="algorithm">Algorithm:</string>
+    <string name="proof_type">Proof Type:</string>
+    <string name="sort_order">Sort Order:</string>
+    <string name="sponsored">Sponsored:</string>
+    <string name="Is_trading">Is Trading:</string>
+    <string name="total_coins_mined">Total Coins Mined:</string>
+    <string name="block_number">Block Number:</string>
+    <string name="net_hashes_per_second">Net Hashes Per Second:</string>
+    <string name="block_reward">Block Reward:</string>
+    <string name="block_time">Block Time:</string>
+    <string name="asset_launch_date">Asset Launch Date:</string>
+    <string name="max_supply">Max Supply:</string>
+    <string name="mkt_cap_penalty">Mkt Cap Penalty:</string>
+    <string name="is_used_defi">Is UsedIn Defi:</string>
+    <string name="is_used_in_nft">Is Used In Nft:</string>
+    <string name="loading_data">Loading data:</string>
+
+
 </resources>
